@@ -1,3 +1,4 @@
 # Misiones
 
-Investigar al Dr. Dump
+* Investigar al Dr. Dump
+* Capturar a RedSkull
